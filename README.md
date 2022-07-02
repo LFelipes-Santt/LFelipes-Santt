@@ -1,4 +1,4 @@
-## Hello! My nname is Luis Felipe.
+## Hello! My name is Luis Felipe.
 
 - 🧑‍💼 Hoje estou a procurado por meu primeiro emprego na área. 
 - 🔭 Hoje 
@@ -10,7 +10,7 @@
 <div align="center"> 
   <a href="https://github.com/LFelipes-Santt">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LFelipes-Santt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFelipes-Santt&layout=compact&langs_count=7&theme=dark"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFelipes-Santt&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 ##
